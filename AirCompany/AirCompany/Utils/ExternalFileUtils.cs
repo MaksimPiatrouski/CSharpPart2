@@ -1,5 +1,5 @@
-﻿using Beans;
-using Exceptions;
+﻿using AirCompany.Beans;
+using AirCompany.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Xml.Serialization;
 
-namespace Utils
+namespace AirCompany.Utils
 {
     class ExternalFileUtils
     {

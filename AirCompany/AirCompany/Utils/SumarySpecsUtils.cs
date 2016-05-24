@@ -1,8 +1,8 @@
-﻿using Beans;
+﻿using AirCompany.Beans;
 using System;
 using System.Collections.Generic;
 
-namespace Utils
+namespace AirCompany.Utils
 {
     class SumarySpecsUtils
     {

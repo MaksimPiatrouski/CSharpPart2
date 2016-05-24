@@ -1,9 +1,9 @@
-﻿using Exceptions;
-using Beans;
+﻿using AirCompany.Exceptions;
+using AirCompany.Beans;
 using System;
 using System.Collections.Generic;
 
-namespace Utils
+namespace AirCompany.Utils
 {
     class FindPlaneUtils
     {

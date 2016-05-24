@@ -1,8 +1,8 @@
-﻿using Beans;
+﻿using AirCompany.Beans;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Utils
+namespace AirCompany.Utils
 {
     class CompanyUtils
     {

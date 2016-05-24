@@ -1,9 +1,9 @@
-﻿using Beans;
+﻿using AirCompany.Beans;
 using System;
 using System.Collections.Generic;
-using Utils;
+using AirCompany.Utils;
 
-namespace Runner
+namespace AirCompany.Runner
 {
     class Runner
     {

@@ -1,6 +1,6 @@
-﻿namespace Beans
+﻿namespace AirCompany.Beans
 {
-    class Company
+    class AirCompany.Company
     {
         private string _companyName;
         private int _numberOfPlanes;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exceptions
+namespace AirCompany.Exceptions
 {
     class NoSuchPlaneException : Exception
     {
